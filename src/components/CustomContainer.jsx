@@ -4,7 +4,10 @@ const CustomContainer = (props) => {
     const ContainerTag = `${props.as ? props.as : "section"}`;
 
     return (
-        <ContainerTag className="container" id={props.id ? props.id : ""}>
+        <ContainerTag 
+            className={props.className ? props.className : ""} 
+            id={props.id ? props.id : ""}
+        >
             {props.children}
         </ContainerTag>
     );

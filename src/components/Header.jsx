@@ -2,14 +2,14 @@ import { Row, Col } from 'react-bootstrap';
 import Text from './Text';
 import CustomContainer from './CustomContainer';
 
-const Header = () => {
+const Header = ({data}) => {
 
     return (
-        <CustomContainer as={"header"} id={"home"}>
+        <CustomContainer as={"header"} id={"home"} className={"container"}>
             <Row>
-                <Col md={6} className="text-center mx-auto">
-                    <Text as={"h1"}>Lorem Ipsum</Text>
-                    <Text as={"p"}>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</Text>
+                <Col md={8} className="text-center mx-auto">
+                    <Text as={"h1"}>{data.title}</Text>
+                    <Text as={"p"}>{data.paragraph}</Text>
                 </Col>
             </Row>
         </CustomContainer>
