@@ -1,13 +1,11 @@
-import AppRouter from './routers/AppRouter';
-import 'bootstrap/dist/css/bootstrap.min.css';
-import './App.css';
+import AppRouter from './routers/AppRouter'
+import 'bootstrap/dist/css/bootstrap.min.css'
+import './App.css'
 
 const App = () => {
-
-    return (
-        <AppRouter />
-    );
-
+  return (
+    <AppRouter />
+  )
 }
 
-export default App;
+export default App

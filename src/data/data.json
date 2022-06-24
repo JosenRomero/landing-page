@@ -1,17 +1,15 @@
 {
-    "Header": {
-
-        "title": "Lorem Ipsum",
-        "paragraph": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
-
-    },
-    "Main": {
-        "Services": [
-            {
-                "icon": "",
-                "name": "Lorem Ipsum",
-                "text": "Lorem Ipsum is simply dummy text"
-            }
-        ]
-    }
+  "Header": {
+    "title": "Lorem Ipsum",
+    "paragraph": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+  },
+  "Main": {
+    "Services": [
+      {
+        "icon": "",
+        "name": "Lorem Ipsum",
+        "text": "Lorem Ipsum is simply dummy text"
+      }
+    ]
+  }
 }
