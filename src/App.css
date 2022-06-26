@@ -11,3 +11,9 @@ body {
   align-items: center;
   justify-content: center;
 }
+
+.serviceIcon {
+  padding: 20px;
+  border-radius: 50%;
+  background: #DFF6FF;
+}
