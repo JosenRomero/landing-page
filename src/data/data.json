@@ -14,16 +14,6 @@
           "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
         },
         {
-          "icon": "cart",
-          "name": "Lorem Ipsum",
-          "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
-        },
-        {
-          "icon": "cogs",
-          "name": "Lorem Ipsum",
-          "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
-        },
-        {
           "icon": "database",
           "name": "Lorem Ipsum",
           "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
@@ -35,6 +25,37 @@
         },
         {
           "icon": "server",
+          "name": "Lorem Ipsum",
+          "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+        },
+        {
+          "icon": "chartline",
+          "name": "Lorem Ipsum",
+          "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+        },
+        {
+          "icon": "lockOutline",
+          "name": "Lorem Ipsum",
+          "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+        }
+      ]
+    },
+    "Features": {
+      "title": "Lorem Ipsum",
+      "paragraph": "Lorem Ipsum is simply dummy text",
+      "items": [
+        {
+          "icon": "monitorAndPhone",
+          "name": "Lorem Ipsum",
+          "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+        },
+        {
+          "icon": "cogs",
+          "name": "Lorem Ipsum",
+          "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+        },
+        {
+          "icon": "cart",
           "name": "Lorem Ipsum",
           "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
         }
