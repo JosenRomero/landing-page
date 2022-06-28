@@ -1,11 +1,13 @@
+import About from './About'
 import ServicesSection from './ServicesSection'
 import FeaturesSection from './FeaturesSection'
 
 const Main = ({ data }) => {
   return (
     <>
-      <ServicesSection data={data.Services} />
+      <About data={data.About} />
       <FeaturesSection data={data.Features} />
+      <ServicesSection data={data.Services} />
     </>
   )
 }
