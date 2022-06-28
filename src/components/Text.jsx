@@ -1,4 +1,3 @@
-/* eslint-disable react/prop-types */
 
 const Text = (props) => {
   const TextTag = `${props.as ? props.as : 'p'}`

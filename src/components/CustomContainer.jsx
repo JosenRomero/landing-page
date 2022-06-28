@@ -1,4 +1,3 @@
-/* eslint-disable react/prop-types */
 
 const CustomContainer = (props) => {
   const ContainerTag = `${props.as ? props.as : 'section'}`

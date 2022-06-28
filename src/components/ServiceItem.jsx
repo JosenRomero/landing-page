@@ -1,4 +1,3 @@
-/* eslint-disable react/prop-types */
 import { Col, Card } from 'react-bootstrap'
 import Text from './Text'
 import Icon from '@mdi/react'

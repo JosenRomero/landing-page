@@ -1,4 +1,3 @@
-/* eslint-disable react/prop-types */
 import { Row } from 'react-bootstrap'
 import Text from './Text'
 import CustomContainer from './CustomContainer'

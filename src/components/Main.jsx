@@ -1,4 +1,3 @@
-/* eslint-disable react/prop-types */
 import ServicesSection from './ServicesSection'
 import FeaturesSection from './FeaturesSection'
 
