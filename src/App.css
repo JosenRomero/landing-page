@@ -17,3 +17,8 @@ body {
   border-radius: 50%;
   background: #DFF6FF;
 }
+
+.py-5 {
+  padding-top: 4rem !important;
+  padding-bottom: 4rem !important;
+}
