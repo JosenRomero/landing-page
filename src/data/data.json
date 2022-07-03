@@ -1,7 +1,8 @@
 {
   "Header": {
     "title": "Lorem Ipsum",
-    "paragraph": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    "paragraph": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "img": "screens.svg"
   },
   "Main": {
     "About": {
